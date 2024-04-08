@@ -24,3 +24,8 @@ It specifies the method (e.g., bayesian optimization), metric to optimize (valid
 **Main Function and Sweep Agent:**
 The main function initializes the model, criterion, and optimizer based on the hyperparameters specified in the configuration.
 It trains the model, evaluates it on the test set, and logs the test accuracy.
+
+And the second part provided code implements of best configuration gets from first part. 
+
+This project was inspired by assignments in deep learning courses and leverages the PyTorch and W&B documentation.
+
